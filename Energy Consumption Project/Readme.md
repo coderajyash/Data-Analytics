@@ -1,0 +1,1 @@
+![Screenshot](Energy Consumption Project/images/EnergyConsumptionDashboard.jpeg)
