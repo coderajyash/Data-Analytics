@@ -1,1 +1,1 @@
-![Screenshot](/images/EnergyConsumptionDashboard.jpg)
+![Screenshot](images/EnergyConsumptionDashboard.jpg)
