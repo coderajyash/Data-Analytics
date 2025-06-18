@@ -1,1 +1,1 @@
-![Screenshot](Energy Consumption Project/images/EnergyConsumptionDashboard.jpeg)
+![Screenshot](/images/EnergyConsumptionDashboard.jpeg)
