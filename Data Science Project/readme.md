@@ -41,16 +41,5 @@ This project applies advanced Market Basket Analysis techniques on an extensive 
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run `market_basket_analysis.ipynb` Jupyter Notebook to reproduce the analysis.
 
-## Future Work
-- Extend analysis to other countries or customer segments.
-- Deploy an interactive dashboard for dynamic rule exploration.
-- Integrate with real-time sales data for continuous recommendations.
 
-## Contact
-For questions or collaborations, please contact [Your Name] at [Your Email].
-
----
-
-# LICENSE
-MIT License
 
